@@ -1,0 +1,2 @@
+# Keep source and golden output identical across Windows, macOS, and Linux.
+* text=auto eol=lf
